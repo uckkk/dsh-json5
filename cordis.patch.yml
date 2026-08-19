@@ -1,0 +1,4 @@
+# JSON5 解析与序列化（dsh-json5）bundle patch：作为 profile 的一层 patch，插入本插件的加载行。
+- insert:
+    - id: json5
+      name: 'dsh-json5'
